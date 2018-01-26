@@ -6,3 +6,6 @@ git push origin localBranch:refs/heads/remote_branch
 
 3.
 git branch set-upstream-to=origin/bak_branch test
+
+4.
+git pull origin remote_branch:local_branch
